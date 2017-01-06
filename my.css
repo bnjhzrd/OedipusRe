@@ -1,0 +1,19 @@
+body {
+
+background-color: rgb(132, 142, 60) ;
+
+}
+
+h1,h2 {
+
+text-align: center ;
+font-size: 100px ;
+color: #00f0ff;
+}
+
+.me {
+font-size: 100px ;
+text-decoration: underline;
+  font-style: italic;
+color: #09f00f;
+}
