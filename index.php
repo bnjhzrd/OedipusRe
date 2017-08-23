@@ -8,6 +8,6 @@
 
 
 
-   <h2>Oedipus <span class=me>Rex</span>.</h2><br><h3><a href="">Video</a></h3>
+   <h2>Oedipus <span class=me>Rex</span>.</h2><br><a class="me" href="">Video</a></h3>
  </body>
 </html>
