@@ -4,9 +4,9 @@
 <link rel = stylesheet type=text/css href=my.css>
 </head>
 <body bgcolor="#F65F8=">
-
-<object width="100%" height="500px" data="snippet.html"></object>
-
+   
+   
+   <object width="100%" height="500px" data="snippet.html"></object>
 
    <h2>Oedipus <span class=me>Rex</span>.</h2>
    <h3>Prometheus performance in Kea town hall</h3>  
