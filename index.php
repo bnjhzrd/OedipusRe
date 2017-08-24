@@ -12,7 +12,7 @@
   
    
   <audio controls>
-  <source src="horse.ogg" type="audio/ogg">
+  <source src="horse.mp4" type="audio/mp4">
   <source src="horse.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
