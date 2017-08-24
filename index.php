@@ -11,8 +11,8 @@
 <iframe width="900" height="500" src="https://www.youtube.com/embed/rAc8fnvjXbM?autoplay=1">  </iframe>
   <script src="Paragraphs.md"></script>
   
- <body> <p style="color:yellow">Domodocos is from  Sorbonne and Rouen universites.</p>
-    <p>Play the prometheus in Kea at Town Hall.</p>
+<body> <p style="color:yellow">omodocos is from  Sorbonne and Rouen universites.</p>
+    <body> <p style="color:yellow">Play the prometheus in Kea at Town Hall.</p>
 
  </body> 
 </html>
