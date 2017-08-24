@@ -11,7 +11,7 @@
    <h2>Oedipus <span class=me>Rex</span>.</h2>
    
    <video width="800" height="500" controls>
-  <source src="VTS_01_1.mp4" type="video/mp4">
+  <source src="video_ts.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
    
