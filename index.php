@@ -1,6 +1,5 @@
 <html>     
 <head>
-
 <link rel = stylesheet type=text/css href=my.css>
 </head>
 <body bgcolor="#F65F8=">
