@@ -1,4 +1,4 @@
-<html>     <iframe src="https://oedipusrex.herokuapp.com"></iframe>
+<html>     
 <head>
 <iframe src="demo_iframe.htm" style="border:2px solid grey;"></iframe
 
