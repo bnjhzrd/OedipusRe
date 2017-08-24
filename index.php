@@ -10,8 +10,6 @@
 
    <h2>Oedipus <span class=me>Rex</span>.</h2>
    <h3>Prometheus performance in Kea town hall</h3>  
-<iframe width="420" height="315"
-src="https://youtu.be/rAc8fnvjXbM">
-</iframe>   
+<iframe width="420" height="315" src="https://www.youtube.com/embed/rAc8fnvjXbM?autoplay=1">  </iframe>   
  </body> 
 </html>
