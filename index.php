@@ -1,4 +1,4 @@
-<html>   scheme://prefix.domain:80/OedipusRex/index.php
+<html> 
 <head>
 <link rel = stylesheet type=text/css href=my.css>
 </head>
