@@ -11,11 +11,10 @@
 <iframe width="900" height="500" src="https://www.youtube.com/embed/rAc8fnvjXbM?autoplay=1">  </iframe>
 
 
-<body> <pre style="color:yellow">Domodocos is from  Sorbonne and Rouen universites.
+<body> <pre style="color:yellow">Domodocos is from Sorbonne and Rouen universites.
 
-          The play is French and Greek
-
-Play the prometheus in Kea at Town Hall.</pre>
+          The play is French and Greek.
+</pre>
 
  </body>
 </html>
