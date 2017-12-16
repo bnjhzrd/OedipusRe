@@ -1,12 +1,7 @@
 <html> 
 <head>
 <link rel = stylesheet type=text/css href=my.css>
-<script>
-function myFunction() {
-    document.getElementById("demo").innerHTML = "Paragraph changed.";
-}
-</script>
-    
+
 </head>
 <body bgcolor="#F65F8=">
   
@@ -19,8 +14,6 @@ function myFunction() {
 
 <body> <pre style="color:yellow">Domodocos is from Sorbonne and Rouen universites.
 
-<p id="demo">A Paragraph</p>
-<button type="button" onclick="myFunction()">Try it</button>
 
 The play is French and Greek.
 </pre>
