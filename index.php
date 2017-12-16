@@ -1,13 +1,14 @@
 <html> 
 <head>
 <link rel = stylesheet type=text/css href=my.css>
-</head>
-<body bgcolor="#F65F8=">
 <script>
 function myFunction() {
     document.getElementById("demo").innerHTML = "Paragraph changed.";
 }
 </script>
+    
+</head>
+<body bgcolor="#F65F8=">
   
   <object width="100%" height="500px" data="snippet.html"></object>
 
@@ -17,12 +18,11 @@ function myFunction() {
 
 
 <body> <pre style="color:yellow">Domodocos is from Sorbonne and Rouen universites.
-<script>
-function myFunction() {
-    document.getElementById("demo").innerHTML = "Paragraph changed.";
-}
-</script>
-          The play is French and Greek.
+
+<p id="demo">A Paragraph</p>
+<button type="button" onclick="myFunction()">Try it</button>
+
+The play is French and Greek.
 </pre>
 
  </body>
